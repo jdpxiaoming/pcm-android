@@ -1,0 +1,14 @@
+Executable : D:\androidsdk\ndk\20.0.5594570\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=D:\workspace\demoplay\pcm-android-master\app\jni\Android.mk
+NDK_APPLICATION_MK=D:\workspace\demoplay\pcm-android-master\app\jni\Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-21
+NDK_OUT=D:/workspace/demoplay/pcm-android-master/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=D:\workspace\demoplay\pcm-android-master\app\build\intermediates\ndkBuild\debug\lib
+adpcm
+jvmArgs : 
+
